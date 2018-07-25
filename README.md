@@ -1,5 +1,5 @@
 # Drowsiness Detection
-A Python script to detect your eyes and alert when the user feel drowsiness while driving.
+A Python script to detect driver drowsiness in a real-time and sound an alarm if driver appears to be drowsy.
 
 ## Setup
 
