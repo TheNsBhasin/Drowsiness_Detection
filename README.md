@@ -16,7 +16,7 @@ python detect_drowsiness.py \
 ```
 
 ## Description
-A computer vision system that uses a real-time algorithm to detect eye blinks in a video sequence from a standard camera and plays an alarm if the driver appears to be drowsy.
+A computer vision system that uses a real-time algorithm to detect eye blinks in a video sequence from a standard camera and sound an alarm if the driver appears to be drowsy.
 
 ### Algorithm
 Given an input image (and normally an ROI that specifies the object of interest), a shape predictor attempts to localize key points of interest along the shape.
